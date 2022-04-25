@@ -1,16 +1,1 @@
-{
-	"name": "fcc-learn-npm-package-json",
-	"author": "Yash Bajaj <Yash8202@github.com>",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
-}
+"author": "Yash Bajaj"
